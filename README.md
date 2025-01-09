@@ -1,7 +1,7 @@
 # INF6027_musicdata
 The analysis for INF6027 project and INF4000 about music data. It is not only the coursework, it is also my interests in music. It is the motivation why I choose this topic. To anyone who learn statistics, data analysis, data science, I hope this work is enjoyable. 
 
-##Cracking the Code of Hit Songs: A Data Journey
+## Cracking the Code of Hit Songs: A Data Journey
 This project explores the magic behind hit songs using the MusicOset dataset, diving into features like danceability, energy, and lyrical themes. By combining data science and music analysis, we uncover the patterns that drive song popularity. Let’s decode the rhythm of success!
 
 ## Research Questions
